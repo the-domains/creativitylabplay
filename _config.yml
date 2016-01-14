@@ -1,0 +1,28 @@
+name: CreativityLabPlay
+favicon: null
+layout_spectrum: 0.600238751154393
+typography_spectrum: 0.29820740572176874
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.2219121332745999
+  lightness: 0.018446239875629544
+  saturation: 0.881091091549024
+  rhythmicContrast: 0.13085094559937716
+purpose: []
